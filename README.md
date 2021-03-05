@@ -20,7 +20,8 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
   * Use the information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
   * For the primary keys check to see if the column is unique, otherwise create a [composite key](https://en.wikipedia.org/wiki/Compound_key). Which takes to primary keys in order to uniquely identify a row.
   * Be sure to create tables in the correct order to handle foreign keys.
-  * Import each CSV file into the corresponding SQL table. **Note** be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
+  * Import each CSV file into the corresponding SQL table. 
+ **Note** be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
 
 #### Data Analysis
 
@@ -42,7 +43,7 @@ Once completed and imported a single database. following steps:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-## Bonus (Optional for CEO presentation)
+## Bonus (Optional for our boss)
 
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
 
@@ -80,18 +81,16 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 ## Conclusions
 
-
-
-The information that our boss handed is suspicious for two reason:
+When making the database from the information that our boss handed we had the following outliers analyzing the following queries on SQL:
 
 When doing the mean for each salary by title, I discovered that the Staff is earning $58465 on average (almost the same as a Senior Staff), this table below prooves this:
-Assistant Engineer 48564.0 Engineer 48535.0 Manager 51531.0 Senior Engineer 48507.0 Senior Staff 58550.0 Staff 58465.0 Technique Leader 48583.0
+<p class="text-cente">Assistant Engineer 48564.0 Engineer 48535.0 Manager 51531.0 Senior Engineer 48507.0 Senior Staff 58550.0 Staff 58465.0 Technique Leader 48583.0</p>
 
 Moreover when I created a histogram bar chart, the company is expending more than double than any other healthy company, on salaries ranging $40000 - $60000 which could be interpreted as an outlier - Either the company is saving money on higher salary titles, or they are paying way too many on lower salary titles.
-CONCLUSION
 
 If data is correct and boss is not playing games to test our knowledge then changes on real life salaries most be done. According to Hadzima, once you have taken into consideration basic salary, taxes and benefits, the real costs of your higher positions employees are typically in the 1.75 to 2 times more compared with base salaries. In other words, if and employee with a title of Staff is earning $40000 then the Senior Staff most earn $80000.
 
 _______________________________________________
-roberto.gonzalez.vallejo@gmail.com 
+[mailto](mailto:roberto.gonzalez.vallejo@gmail.com)
+[link **Linkedinn**](https://www.linkedin.com/in/roberto-gonzalez-vallejo-6ba894144/)
 © 2020
