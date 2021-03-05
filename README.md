@@ -92,7 +92,7 @@ If data is correct and boss is not playing games to test our knowledge then chan
 
 _______________________________________________
 - Email: <roberto.gonzalez.vallejo@gmail.com>
-- Author: [mailto autohor: Roberto Gonzalez Vallejo](mailto:roberto.gonzalez.vallejo@gmail.com) or 
+- Author: [Roberto Gonzalez Vallejo](mailto:roberto.gonzalez.vallejo@gmail.com)
 - [**Linkedin**](https://www.linkedin.com/in/roberto-gonzalez-vallejo-6ba894144/)
 - [**Github**](https://github.com/roberto-g-v)
 - © 2020
