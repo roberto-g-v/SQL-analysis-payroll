@@ -13,7 +13,7 @@ I´ve been hired as a new data analyst at Grupo Cassatt. My first major task is 
 Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
 **Note**: term "Data Modeling" in place of "Data Engineering," same terms. Data Engineering is the more modern wording instead of Data Modeling.
 
-2. Data Analysis
+2. Schema EDR
 
 ![EDR.png](EDR.png)
 
