@@ -91,6 +91,6 @@ Moreover when I created a histogram bar chart, the company is expending more tha
 If data is correct and boss is not playing games to test our knowledge then changes on real life salaries most be done. According to Hadzima, once you have taken into consideration basic salary, taxes and benefits, the real costs of your higher positions employees are typically in the 1.75 to 2 times more compared with base salaries. In other words, if and employee with a title of Staff is earning $40000 then the Senior Staff most earn $80000.
 
 _______________________________________________
-[mailto](mailto:roberto.gonzalez.vallejo@gmail.com)
-[link **Linkedinn**](https://www.linkedin.com/in/roberto-gonzalez-vallejo-6ba894144/)
-© 2020
+- [mailto](mailto:roberto.gonzalez.vallejo@gmail.com)<roberto.gonzalez.vallejo@gmail.com>
+- [**Linkedin**](https://www.linkedin.com/in/roberto-gonzalez-vallejo-6ba894144/)
+- © 2020
