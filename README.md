@@ -78,7 +78,16 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 When making the database from the information that our boss handed we had the following outliers analyzing the following queries on SQL:
 
 When doing the mean for each salary by title, I discovered that the Staff is earning $58465 on average (almost the same as a Senior Staff), this table below prooves this:
-<p class="text-cente">Assistant Engineer 48564.0 Engineer 48535.0 Manager 51531.0 Senior Engineer 48507.0 Senior Staff 58550.0 Staff 58465.0 Technique Leader 48583.0</p>
+**Position**|**Salary**
+:-----:|:-----:
+
+Assistant Engineer | $ 48564.0
+Engineer | $ 48535.0 
+Manager | $ 51531.0 
+Senior Engineer | $ 48507.0
+Senior Staff | $ 58550.0 
+Staff | $ 58465.0 
+Technique Leader | $ 48583.0
 
 Moreover when I created a histogram bar chart, the company is expending more than double than any other healthy company, on salaries ranging $40000 - $60000 which could be interpreted as an outlier - Either the company is saving money on higher salary titles, or they are paying way too many on lower salary titles.
 
