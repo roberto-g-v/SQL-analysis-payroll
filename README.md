@@ -91,9 +91,9 @@ Staff | $ 58465.0
 Technique Leader | $ 48583.0
 
 <br>
-Moreover when I created a histogram bar chart, the company is expending more than double than any other healthy company, on salaries ranging $40000 - $60000 which could be interpreted as an outlier - Either the company is saving money on higher salary titles, or they are paying way too many on lower salary titles.
+Moreover when I created a histogram bar chart, the company is expending more than double than any other healthy company, on salaries ranging $40000 - $60000 which could be interpreted as an outlier - Either the company is saving money on higher salary titles, or they are paying way too much on lower salary titles.
 
-![sql.png](sql.png)
+![histogram.png](histogram.png)
 
 If data is correct we must advise our boss that salaries most be double check. Payrolls of Staff and Senior Staff are almost at the same wage! According to Hadzima, once you have taken into consideration basic salary, taxes and benefits, the real costs of your higher positions employees are typically in the 1.75 to 2 times more compared with base salaries. In other words, if and employee with a title of Staff is earning $40000 then the Senior Staff most earn $80000.
 
