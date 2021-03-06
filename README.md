@@ -13,11 +13,11 @@ I´ve been hired as a new data analyst at Grupo Cassatt. My first major task is 
 Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words perform EDR modeling:
 **Note**: term "Data Modeling" in place of "Data Engineering," same terms. Data Engineering is the more modern wording instead of Data Modeling.
 
-2. Schema EDR
+2. Schema ERD
 
 ![EDR.png](EDR.png)
 
-  * Use the information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+  * Use the information to create a table schema for each of the six CSV files. Specifying data types, primary keys, foreign keys, and other constraints.
   * For the primary keys check to see if the column is unique, otherwise create a [composite key](https://en.wikipedia.org/wiki/Compound_key). Which takes to primary keys in order to uniquely identify a row.
   * Be sure to create tables in the correct order to handle foreign keys.
   * Import each CSV file into the corresponding SQL table. 
