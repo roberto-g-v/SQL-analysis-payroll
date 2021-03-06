@@ -73,8 +73,6 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 * (Optional) Create a Jupyter Notebook of the bonus analysis.
 
-* Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
-
 ## Conclusions
 
 When making the database from the information that our boss handed we had the following outliers analyzing the following queries on SQL:
