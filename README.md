@@ -63,10 +63,6 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 3. Create a bar chart of average salary by title.
 
-## Epilogue
-
-Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
-
 ## Submission
 
 * Create an image file of your ERD.
@@ -88,7 +84,7 @@ When doing the mean for each salary by title, I discovered that the Staff is ear
 
 Moreover when I created a histogram bar chart, the company is expending more than double than any other healthy company, on salaries ranging $40000 - $60000 which could be interpreted as an outlier - Either the company is saving money on higher salary titles, or they are paying way too many on lower salary titles.
 
-If data is correct and boss is not playing games to test our knowledge then changes on real life salaries most be done. According to Hadzima, once you have taken into consideration basic salary, taxes and benefits, the real costs of your higher positions employees are typically in the 1.75 to 2 times more compared with base salaries. In other words, if and employee with a title of Staff is earning $40000 then the Senior Staff most earn $80000.
+If data is correct we must advise our boss that salaries most be double check. Payrolls of Staff and Senior Staff are almost at the same wage! According to Hadzima, once you have taken into consideration basic salary, taxes and benefits, the real costs of your higher positions employees are typically in the 1.75 to 2 times more compared with base salaries. In other words, if and employee with a title of Staff is earning $40000 then the Senior Staff most earn $80000.
 
 _______________________________________________
 - Email: <roberto.gonzalez.vallejo@gmail.com>
