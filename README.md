@@ -4,7 +4,7 @@ Employee Database: Grupo Cassatt Sociedad Anonima
 
 ## Background
 
-I´ve been hired as a new data analyst at Grupo Cassatt. My first major task is a research project on employees of the corporation from the 2000s. All that remain of the database of employees from that period are six CSV files.
+I´ve been hired as a new data analyst at Grupo Cassatt. My first major task is a research project on employees of the corporation from the year 2010. All that remain of the database of employees from that period are six CSV files.
 
 ## Scope
 
